@@ -1,4 +1,4 @@
-import { ReactFormConst } from "./const";
+import { ReactFormConst } from "./react-form.const";
 
 export const submitCreator = (payload) => ({
   type: ReactFormConst.Submit,
